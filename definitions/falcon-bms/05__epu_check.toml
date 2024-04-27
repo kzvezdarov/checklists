@@ -1,0 +1,58 @@
+[[sections]]
+title = "EPU Check"
+
+[[sections.steps]]
+label = "EPU Safety Pin"
+value = "REMOVED"
+
+[[sections.steps]]
+label = "EPU GEN & PMG lights"
+value = "OFF"
+
+[[sections.steps]]
+label = "Oxygen"
+value = "100%"
+
+[[sections.steps]]
+label = "Toe brakes"
+value = "ENGAGED"
+
+[[sections.steps]]
+label = "EPU switch"
+value = "OFF"
+
+[[sections.steps]]
+label = "EPU switch"
+value = "ON"
+
+[[sections.steps]]
+label = "THROTTLE"
+value = "80%"
+
+[[sections.steps]]
+label = "EPU GEN TEST switch"
+value = "EPU/GEN & HOLD"
+
+[[sections.steps.substeps]]
+label = "EPU AIR light"
+value = "ON"
+
+[[sections.steps.substeps]]
+label = "EPU GEN & PMG lights"
+value = "OFF"
+
+[[sections.steps.substeps]]
+label = "FLCS PWR lights"
+value = "ON"
+
+[[sections.steps.substeps]]
+label = "EPU RUN light"
+value = "ON - within 5s"
+
+[[sections.steps]]
+label = "THROTTLE"
+value = "IDLE"
+
+[[sections.steps]]
+label = "Oxygen"
+value = "NORM"

@@ -1,0 +1,46 @@
+[[sections]]
+title = "After Engine Start"
+
+[[sections.steps]]
+label = "Gear lights"
+value = "ON"
+
+[[sections.steps]]
+label = "FLCS reset switch"
+value = "RESET"
+
+[[sections.steps.substeps]]
+label = "FLCS caution light"
+value = "OFF"
+
+[[sections.steps.substeps]]
+label = "PFD light"
+value = "OFF"
+
+[[sections.steps]]
+label = "PROBE HEAT caution light"
+value = "OFF"
+
+[[sections.steps]]
+label = "PROBE HEAT TEST switch"
+value = "TEST & HOLD"
+
+[[sections.steps.substeps]]
+label = "PROBE HEAT caution light"
+value = "FLASHING"
+
+[[sections.steps]]
+label = "Fire & Overheat Detect btn"
+value = "TEST & HOLD"
+
+[[sections.steps.substeps]]
+label = "ENG FIRE caution light"
+value = "ON"
+
+[[sections.steps.substeps]]
+label = "OVER HEAT caution light"
+value = "ON"
+
+[[sections.steps.substeps]]
+label = "MASTER CAUTION light"
+value = "ON"

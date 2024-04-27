@@ -1,0 +1,41 @@
+title = "Falcon BMS"
+description = "Normal Checklists"
+
+[[sections]]
+title = "Verify Check"
+
+[[sections.steps]]
+label = "Fuel Master switch"
+value = "ON - guard down"
+
+[[sections.steps]]
+label = "Engine Feed"
+value = "NORM"
+
+[[sections.steps]]
+label = "EPU"
+value = "NORM"
+
+[[sections.steps]]
+label = "Eng Cont"
+value = "PRI - guard down"
+
+[[sections.steps]]
+label = "Throttle"
+value = "CUTOFF"
+
+[[sections.steps]]
+label = "Landing Gear"
+value = "DOWN & LOCKED"
+
+[[sections.steps]]
+label = "Hook switch"
+value = "UP"
+
+[[sections.steps]]
+label = "Master Arm"
+value = "OFF"
+
+[[sections.steps]]
+label = "Air Source"
+value = "NORM"

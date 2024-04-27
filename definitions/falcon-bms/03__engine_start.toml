@@ -1,0 +1,58 @@
+[[sections]]
+title = "Engine Start"
+
+[[sections.steps]]
+label = "JFS switch"
+value = "START 2"
+
+[[sections.steps]]
+label = "JFS light"
+value = "ON within 30s"
+
+[[sections.steps]]
+label = "Throttle"
+value = "ADVANCE IDLE at 25% RPM"
+
+[[sections.steps]]
+label = "SEC caution light"
+value = "OFF at 20% RPM"
+
+[[sections.steps]]
+label = "ENG caution light"
+value = "OFF at 60% RPM"
+
+[[sections.steps]]
+label = "JFS switch"
+value = "CONFIRM OFF at 55% RPM"
+
+[[sections.steps]]
+label = "HYD/OIL PRESS caution light"
+value = "OFF between 15% and  70% RPM"
+
+[[sections.steps]]
+label = "Fuel flow"
+value = "700 - 1700 PPH"
+
+[[sections.steps]]
+label = "OIL PRESS gauge"
+value = "MIN 15 PSI"
+
+[[sections.steps]]
+label = "NOZ POS gauge"
+value = "GREATER 94%"
+
+[[sections.steps]]
+label = "RPM gauge"
+value = "62 - 80%"
+
+[[sections.steps]]
+label = "FTIT"
+value = "BELOW 650"
+
+[[sections.steps]]
+label = "HYD PRESS A&B gauges"
+value = "AT 12 O'CLOCK"
+
+[[sections.steps]]
+label = "ANTI-ICE switch"
+value = "ON"

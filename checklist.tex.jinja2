@@ -1,0 +1,25 @@
+% Source https://github.com/theovesy/latexfschecklists
+\documentclass{checklist}
+
+\chead{[[ title|elatex ]]}
+\lhead{[[ description|elatex ]]}
+
+\begin{document}
+
+[% for section in sections %]
+\clsection{[[ section.title|elatex ]]}{
+	[% for step in section.steps %]
+		[% if step.title %]
+		\cl{[[ step.title|elatex ]]}{}
+		[% else %]
+		\cl{[[ step.label|elatex ]]}{[[ step.value|elatex ]]}
+		[% endif %]
+		[% for substep in step.substeps %]
+		\hspace*{6mm} \cl{[[ substep.label|elatex ]]}{[[ substep.value|elatex ]]}
+		[% endfor %]
+	[% endfor %]
+}
+
+[% endfor %]
+
+\end{document}
