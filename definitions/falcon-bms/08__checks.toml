@@ -1,0 +1,130 @@
+[[sections]]
+title = "FLCS BIT Check"
+
+[[sections.steps]]
+label = "LMFD"
+value = "SET TO FLCS"
+
+[[sections.steps]]
+label = "TRIM check"
+value = "NEUTRAL-NORM"
+
+[[sections.steps]]
+label = "FLT CONTROL panel"
+value = "ALL SWITCHES INWARD"
+
+[[sections.steps]]
+label = "Flight Controls"
+value = "CYCLE 20s"
+
+[[sections.steps]]
+label = "FLCS BIT switch"
+value = "INITIATE & MONITOR"
+
+[[sections.steps]]
+label = "LMFD - FLCS"
+value = "BIT PASS message"
+
+[[sections.steps]]
+label = "FLCS BIT switch"
+value = "VERIFY OFF"
+
+[[sections.steps]]
+label = "WHEELS down lights"
+value = "GREEN"
+
+[[sections.steps]]
+label = "EPU FUEL QUANTITY"
+value = "95 - 102%"
+
+[[sections.steps]]
+label = "MFDs"
+value = "AS DESIRED"
+
+[[sections.steps]]
+label = "UHF/VHF radios"
+value = "AS DESIRED"
+
+[[sections.steps]]
+label = "Avionics"
+value = "PROGRAM AS REQUIRED"
+
+[[sections]]
+title = "Speed Brakes Check"
+
+[[sections.steps]]
+label = "SPEED BRAKES switch"
+value = "CYCLE"
+
+[[sections]]
+title = "DBU Check"
+
+[[sections.steps]]
+label = "DIGITAL BACKUP switch"
+value = "BACKUP"
+
+[[sections.steps]]
+label = "Flight Controls"
+value = "RESPONSIVE"
+
+[[sections.steps]]
+label = "DIGITAL BACKUP switch"
+value = "OFF"
+
+[[sections]]
+title = "Trim Check"
+
+[[sections.steps]]
+label = "TRIM panel"
+value = "CHECK"
+
+[[sections.steps]]
+label = "TRIM/AP switch"
+value = "DISC"
+
+[[sections.steps]]
+label = "Trim controls"
+value = "NO TRIM CHANGE"
+
+[[sections.steps]]
+label = "TRIM/AP switch"
+value = "NORM"
+
+[[sections]]
+title = "Anti-ice Check"
+
+[[sections.steps]]
+label = "ANTI-ICE switch"
+value = "OFF"
+
+[[sections.steps]]
+label = "FTIT gauge"
+value = "DECR >= 10deg"
+
+[[sections.steps]]
+label = "ANTI-ICE switch"
+value = "AUTO"
+
+[[sections]]
+title = "OBOGS Check"
+
+[[sections.steps]]
+label = "Oxygen System"
+value = "CHECK"
+
+[[sections.steps]]
+label = "Pressure"
+value = "50 - 120 psi"
+
+[[sections.steps]]
+label = "Moder lever"
+value = "PBG/ON (as required)"
+
+[[sections.steps]]
+label = "FLOW indicator"
+value = "CHECK"
+
+[[sections.steps]]
+label = "EMER lever"
+value = "NORM"
+

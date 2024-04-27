@@ -1,0 +1,51 @@
+[[sections]]
+title = "SEC Check"
+
+[[sections.steps]]
+label = "THROTTLE"
+value = "IDLE for 30s+"
+
+[[sections.steps]]
+label = "BRAKES"
+value = "APPLY"
+
+[[sections.steps]]
+label = "ENG CONT switch"
+value = "RAISE GUARD, then SEC"
+
+[[sections.steps]]
+label = "NOZZLE gauge"
+value = "CLOSING (gently, to less than 5%)"
+
+[[sections.steps]]
+label = "SEC caution light"
+value = "ON"
+
+[[sections.steps]]
+label = "THROTTLE"
+value = "ADVANCE to 73%, VERIFY eng response"
+
+[[sections.steps]]
+label = "THROTTLE"
+value = "IDLE, verify NOZZLE remains closed"
+
+[[sections.steps]]
+label = "ENG CONT switch"
+value = "PRI - guard down"
+
+[[sections.steps]]
+label = "ENG CONT switch"
+value = "NORM - guard down"
+
+[[sections.steps]]
+label = "NOZZLE"
+value = "OPENING (gently, to more than 80%)"
+
+[[sections.steps]]
+label = "SEC caution light"
+value = "ON"
+
+[[sections.steps]]
+label = "BRAKES"
+value = "RELEASE"
+

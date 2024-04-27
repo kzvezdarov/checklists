@@ -5,37 +5,37 @@ description = "Normal Checklists"
 title = "Verify Check"
 
 [[sections.steps]]
-label = "Fuel Master switch"
+label = "FUEL MASTER switch"
 value = "ON - guard down"
 
 [[sections.steps]]
-label = "Engine Feed"
+label = "ENGINE FEED knob"
 value = "NORM"
 
 [[sections.steps]]
-label = "EPU"
-value = "NORM"
+label = "EPU switch"
+value = "NORM - guard down"
 
 [[sections.steps]]
-label = "Eng Cont"
+label = "ENG CONT switch"
 value = "PRI - guard down"
 
 [[sections.steps]]
-label = "Throttle"
+label = "THROTTLE"
 value = "CUTOFF"
 
 [[sections.steps]]
-label = "Landing Gear"
-value = "DOWN & LOCKED"
+label = "LD GEAR handle"
+value = "Confirm DOWN and LOCKED"
 
 [[sections.steps]]
-label = "Hook switch"
+label = "HOOK switch"
 value = "UP"
 
 [[sections.steps]]
-label = "Master Arm"
+label = "MASTER ARM switch"
 value = "OFF"
 
 [[sections.steps]]
-label = "Air Source"
+label = "AIR SOURCE knob"
 value = "NORM"

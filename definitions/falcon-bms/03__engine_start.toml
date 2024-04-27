@@ -10,15 +10,19 @@ label = "JFS light"
 value = "ON within 30s"
 
 [[sections.steps]]
-label = "Throttle"
-value = "ADVANCE IDLE at 25% RPM"
+label = "THROTTLE"
+value = "ADVANCE to IDLE at min 25% RPM"
 
 [[sections.steps]]
 label = "SEC caution light"
 value = "OFF at 20% RPM"
 
 [[sections.steps]]
-label = "ENG caution light"
+label = "FTIT gauge"
+value = "MONITOR (past 750 = HOTSTART)"
+
+[[sections.steps]]
+label = "ENG warning light"
 value = "OFF at 60% RPM"
 
 [[sections.steps]]
@@ -27,14 +31,17 @@ value = "CONFIRM OFF at 55% RPM"
 
 [[sections.steps]]
 label = "HYD/OIL PRESS caution light"
-value = "OFF between 15% and  70% RPM"
+value = "OFF between 15% and 70% RPM"
+
+[[sections]]
+title = "Engine Check at Idle"
 
 [[sections.steps]]
-label = "Fuel flow"
+label = "FUEL FLOW"
 value = "700 - 1700 PPH"
 
 [[sections.steps]]
-label = "OIL PRESS gauge"
+label = "OIL PRESSURE gauge"
 value = "MIN 15 PSI"
 
 [[sections.steps]]

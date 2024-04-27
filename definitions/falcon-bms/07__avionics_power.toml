@@ -1,0 +1,86 @@
+[[sections]]
+title = "Avionics Power"
+
+[[sections.steps]]
+label = "MMC switch"
+value = "SET"
+
+[[sections.steps]]
+label = "ST STA switch"
+value = "SET"
+
+[[sections.steps]]
+label = "MFD switch"
+value = "SET"
+
+[[sections.steps]]
+label = "UFC switch"
+value = "SET"
+
+[[sections.steps]]
+label = "GPS TRK switch"
+value = "SET"
+
+[[sections.steps]]
+label = "DL switch"
+value = "SET"
+
+[[sections.steps]]
+label = "MIDS LTV knob"
+value = "ON"
+
+[[sections.steps]]
+label = "Altimeter QNH"
+value = "SET (airfield or parking MSL)"
+
+
+[[sections.steps]]
+label = "DED display"
+value = "VISIBLE"
+
+[[sections.steps]]
+label = "EGI"
+value = "ALIGN NORM"
+
+[[sections.steps]]
+title = "SNSR PWR panel"
+
+[[sections.steps.substeps]]
+label = "LEFT HDPT switch"
+value = "AS REQUIRED"
+
+[[sections.steps.substeps]]
+label = "RIGHT HDPT switch"
+value = "AS REQUIRED"
+
+[[sections.steps.substeps]]
+label = "FCR switch"
+value = "FCR"
+
+[[sections.steps.substeps]]
+label = "RDR ALT switch"
+value = "STBY"
+
+[[sections.steps]]
+label = "HUD/ASHM"
+value = "AS DESIRED"
+
+[[sections.steps]]
+label = "HMCS SYMBOLOGY INT knob"
+value = "ON"
+
+[[sections.steps]]
+label = "IFF MASTER knob"
+value = "STBY"
+
+[[sections.steps]]
+label = "C & I knob"
+value = "UFC"
+
+[[sections.steps]]
+label = "MFD - MFL"
+value = "CLEAR"
+
+[[sections.steps]]
+label = "MFD - DTC"
+value = "LOAD"

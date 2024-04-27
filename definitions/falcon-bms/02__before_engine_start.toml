@@ -2,7 +2,7 @@
 title = "Before Engine Start"
 
 [[sections.steps]]
-label = "Main PWR"
+label = "MAIN PWR switch"
 value = "BATT"
 
 [[sections.steps.substeps]]
@@ -10,7 +10,7 @@ label = "FLCS RLY light"
 value = "ON"
 
 [[sections.steps]]
-label = "FLCS PWR TEST"
+label = "FLCS PWR TEST switch"
 value = "TEST and HOLD"
 
 [[sections.steps.substeps]]
@@ -22,7 +22,7 @@ label = "FLCS PMG light"
 value = "ON"
 
 [[sections.steps.substeps]]
-label = "FLCS PWR light"
+label = "FLCS PWR (4) light"
 value = "ON"
 
 [[sections.steps.substeps]]
@@ -30,8 +30,8 @@ label = "FLCS RLY light"
 value = "OFF"
 
 [[sections.steps]]
-label = "Main PWR"
-value = "MAIN"
+label = "MAIN PWR switch"
+value = "MAIN PWR"
 
 [[sections.steps.substeps]]
 label = "ELEC SYS light"
@@ -54,16 +54,12 @@ label = "ENGINE light"
 value = "ON"
 
 [[sections.steps]]
-label = "EPU GEN light"
-value = "OFF"
-
-[[sections.steps]]
-label = "EPU PMG light"
+label = "EPU GEN & EPU PMG lights"
 value = "OFF"
 
 [[sections.steps]]
 label = "Communications"
-value = "ALL TO UHF BACKUP"
+value = "ALL set to UHF BACKUP"
 
 [[sections.steps]]
 label = "Canopy"
@@ -76,3 +72,7 @@ value = "IN PLACE"
 [[sections.steps]]
 label = "COM1 & COM2 vol. knob"
 value = "SET"
+
+[[sections.steps]]
+label = "Backup UHF radio"
+value = "Establish comms if required"

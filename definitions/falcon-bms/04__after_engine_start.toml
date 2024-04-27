@@ -3,7 +3,7 @@ title = "After Engine Start"
 
 [[sections.steps]]
 label = "Gear lights"
-value = "ON"
+value = "ON (3 green)"
 
 [[sections.steps]]
 label = "FLCS reset switch"
@@ -34,7 +34,7 @@ label = "Fire & Overheat Detect btn"
 value = "TEST & HOLD"
 
 [[sections.steps.substeps]]
-label = "ENG FIRE caution light"
+label = "ENG FIRE warning light"
 value = "ON"
 
 [[sections.steps.substeps]]
@@ -44,3 +44,15 @@ value = "ON"
 [[sections.steps.substeps]]
 label = "MASTER CAUTION light"
 value = "ON"
+
+[[sections.steps]]
+label = "MAIN & IND LTS button"
+value = "DEPRESS and HOLD"
+
+[[sections.steps.substeps]]
+label = "VMS audio messages"
+value = "VERIFY"
+
+[[sections.steps.substeps]]
+label = "Light Indicators"
+value = "ALL ON"

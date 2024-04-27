@@ -1,21 +1,32 @@
 [[sections]]
-title = "EPU Check"
-
-[[sections.steps]]
-label = "EPU Safety Pin"
-value = "REMOVED"
+title = "Pre EPU Check"
 
 [[sections.steps]]
 label = "EPU GEN & PMG lights"
 value = "OFF"
 
 [[sections.steps]]
+label = "EPU switch"
+value = "OFF"
+
+[[sections.steps]]
+label = "EPU Safety Pin"
+value = "REMOVED"
+
+[[sections.steps]]
+label = "EPU switch"
+value = "NORM"
+
+[[sections]]
+title = "EPU Check"
+
+[[sections.steps]]
 label = "Oxygen"
 value = "100%"
 
 [[sections.steps]]
-label = "Toe brakes"
-value = "ENGAGED"
+label = "EPU GEN & PMG lights"
+value = "OFF"
 
 [[sections.steps]]
 label = "EPU switch"
@@ -23,11 +34,15 @@ value = "OFF"
 
 [[sections.steps]]
 label = "EPU switch"
-value = "ON"
+value = "NORM"
+
+[[sections.steps]]
+label = "BRAKES"
+value = "ENGAGED"
 
 [[sections.steps]]
 label = "THROTTLE"
-value = "80%"
+value = "INCREASE rpm ABOVE 5% BELOW 85%"
 
 [[sections.steps]]
 label = "EPU GEN TEST switch"
@@ -52,6 +67,14 @@ value = "ON - within 5s"
 [[sections.steps]]
 label = "THROTTLE"
 value = "IDLE"
+
+[[sections.steps]]
+label = "BRAKES"
+value = "RELEASE"
+
+[[sections.steps]]
+label = "EXT LIGHTING POS"
+value = "STEADY"
 
 [[sections.steps]]
 label = "Oxygen"

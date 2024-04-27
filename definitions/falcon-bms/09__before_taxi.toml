@@ -1,0 +1,33 @@
+[[sections]]
+title = "Before Taxi"
+
+[[sections.steps]]
+label = "Canopy"
+value = "CLOSED & LOCKED"
+
+[[sections.steps]]
+label = "Altimiter and altitude indications"
+value = "SET & CHECK"
+
+[[sections.steps]]
+label = "INS knob"
+value = "NAV"
+
+[[sections.steps]]
+label = "CHOCKS"
+value = "REMOVED"
+
+[[sections]]
+title = "Taxi"
+
+[[sections.steps]]
+label = "Brakes and NWS"
+value = "CHECK"
+
+[[sections.steps]]
+label = "Heading"
+value = "CHECK"
+
+[[sections.steps]]
+label = "Fligth instruments"
+value = "CHECK"
